@@ -39,14 +39,14 @@
   width: 32px;
   height: 32px;
   object-fit: contain;
-  background: url("../assets/icon-chevron-right.png") center;
+  background: url("/src/assets/icon-chevron-right.png") no-repeat center center;
 }
 
 .react-3d-carousel .slider-container .slider-left > div > i {
   width: 32px;
   height: 32px;
   object-fit: contain;
-  background: url("../assets/icon-chevron-left.png") center;
+  background: url("/src/assets/icon-chevron-left.png") no-repeat center center;
 }
 
 .rectangle {
